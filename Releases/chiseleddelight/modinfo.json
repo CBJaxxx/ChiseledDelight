@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "chiseleddelight",
+    "name": "ChiseledDelight",
+    "authors": [
+        "CBJaxx"
+    ],
+    "description": "This mod adds the ability to make functional chiseled chest/cabinets/ect.",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    }
+}
